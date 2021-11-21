@@ -1,2 +1,2 @@
 Hyrule  
-![Zelda BOTW](medias/976005.jpg)
+![Zelda BOTW](976005.jpg)
