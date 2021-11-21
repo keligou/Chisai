@@ -1,1 +1,1 @@
-![Zelda BOTW](976005.jpg Hyrule)
+![Zelda BOTW](medias/976005.jpg Hyrule)
