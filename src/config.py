@@ -1,6 +1,6 @@
 content_folder = ['art', 'blog', 'journal']
 relative_build_url = "/"
-absolute_build_url = "https://keligou.github.io/Chisai/"
+absolute_build_url = "https://keligou.github.io/Iglek/"
 build_folder = "build/"
 assets_folder = "assets/"
 medias_folder = "medias/"
