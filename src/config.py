@@ -1,4 +1,4 @@
-content_folder = ['art', 'blog', 'Journal']
+content_folder = ['art', 'blog', 'journal']
 relative_build_url = "/"
 absolute_build_url = "https://keligou.github.io/Iglek/"
 build_folder = "build/"
