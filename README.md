@@ -1,4 +1,4 @@
-![Chisai logo](medias/chisai_square.png)
+![Crescent_moon8833_square logo](medias/Crescent_moon8833_square.jpg)
 
 # Chīsai!
 
