@@ -1,0 +1,190 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://keligou.github.io/Iglek/feed.xml" rel="self" type="application/rss+xml" />
+<title>Iglek | Chīsai, a small and ready to use micro-site generator. thanks thomasorus</title>
+<link>https://keligou.github.io/Iglek/</link>
+<description>Iglek — Chīsai, a small and ready to use micro-site generator. thanks thomasorus</description>
+<lastBuildDate>2022-01-09</lastBuildDate>
+<image>
+  <url>https://keligou.github.io/Iglek/assets/rss.png</url>
+  <title>Iglek — Chīsai, a small and ready to use micro-site generator. thanks thomasorus</title>
+<link>https://keligou.github.io/Iglek/</link>
+</image>
+<item>
+  <title>Art</title>
+  <link>https://keligou.github.io/Iglek/art.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/art.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Art</h1>
+<p>In this section I list art pieces that I enjoy. Creating pages in this art section is very simple: just add a new file and the generator will create them instantly!</p>
+<ul class='listing'><li><h3><a href='new.html'>Test Yoda</a></h3><small>09-01-2022 13:40:00</small></li>
+<li><h3><a href='21-11-2021.html'>Hyrule  </a></h3><small>21-11-2021</small></li>
+<li><h3><a href='23-01-2021.html'>Kaguya dancing</a></h3><small>23-01-2021</small></li>
+<li><h3><a href='12-01-2021.html'>Chihiro having dinner</a></h3><small>12-01-2021</small></li>
+<li><h3><a href='08-01-2021.html'>A strange looking city</a></h3><small>08-01-2021</small></li>
+<li><h3><a href='05-01-2021.html'>A pensive blue man</a></h3><small>05-01-2021</small></li>
+<li><h3><a href='02-01-2021.html'>A lady laying down</a></h3><small>02-01-2021</small></li>
+</ul>]]>
+  </description>
+</item><item>
+  <title>Test Yoda</title>
+  <link>https://keligou.github.io/Iglek/new.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/new.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Test Yoda</h1>
+<p>Test image ok?</p>
+<p><img src="https://keligou.github.io/Iglek/medias/Yodaenforme.jpg" alt="Yodaaaaa"></p>
+]]>
+  </description>
+</item><item>
+  <title>Le titre de la page</title>
+  <link>https://keligou.github.io/Iglek/my-first-page.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/my-first-page.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Le titre de la page</h1>
+<p>test<br>
+<em>test</em><br>
+<strong>test gras?</strong>
+<strong><em>test ??</em></strong>
+un test</p>
+]]>
+  </description>
+</item><item>
+  <title>Blog</title>
+  <link>https://keligou.github.io/Iglek/blog.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/blog.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Blog</h1>
+<p>I post my artist progress here!</p>
+<ul class='listing'><li><h3><a href='my-first-page.html'>Le titre de la page</a></h3><small>09-01-2022 13:40:00</small></li>
+<li><h3><a href='24-12-2021.html'>Merry Christmas!</a></h3><small>24-12-2021</small></li>
+<li><h3><a href='01-01-2021.html'>Happy new year!</a></h3><small>01-01-2021</small></li>
+</ul>]]>
+  </description>
+</item><item>
+  <title>Hyrule  </title>
+  <link>https://keligou.github.io/Iglek/test-image.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/test-image.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Hyrule</h1>
+<p>Un autre test</p>
+<p><img src="https://keligou.github.io/Iglek/medias/976005.jpg" alt="Zelda BOTW"></p>
+]]>
+  </description>
+</item><item>
+  <title>Journal - test</title>
+  <link>https://keligou.github.io/Iglek/Journal.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/Journal.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Journal - test</h1>
+<p>Ceci est un test , <em>un test</em></p>
+<blockquote><p>un vrai de vrai</p>
+</blockquote>
+<ul class='listing'><li><h3><a href='test-image.html'>Hyrule  </a></h3><small>09-01-2022 13:40:00</small></li>
+<li><h3><a href='untruc.html'>Un truc ?</a></h3><small>09-01-2022 13:40:00</small></li>
+</ul>]]>
+  </description>
+</item><item>
+  <title>Un truc ?</title>
+  <link>https://keligou.github.io/Iglek/untruc.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/untruc.html</guid>
+  <pubDate>2022-01-09 13:40:00</pubDate>
+<description>
+<![CDATA[<h1>Un truc ?</h1>
+<p>Bla <em>bla</em></p>
+]]>
+  </description>
+</item><item>
+  <title>Merry Christmas!</title>
+  <link>https://keligou.github.io/Iglek/24-12-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/24-12-2021.html</guid>
+  <pubDate>2021-12-24 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>Merry Christmas!</h1>
+<p>Merry Christmas to all of you! I had a lovely dinner and got super socks from my partner!</p>
+]]>
+  </description>
+</item><item>
+  <title>Hyrule  </title>
+  <link>https://keligou.github.io/Iglek/21-11-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/21-11-2021.html</guid>
+  <pubDate>2021-11-21 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>Hyrule</h1>
+<p><img src="https://keligou.github.io/Iglek/medias/976005.jpg" alt="Zelda BOTW"></p>
+]]>
+  </description>
+</item><item>
+  <title>Kaguya dancing</title>
+  <link>https://keligou.github.io/Iglek/23-01-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/23-01-2021.html</guid>
+  <pubDate>2021-01-23 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>Kaguya dancing</h1>
+<p>A still image from the movie The Tale of Princess Kaguya.</p>
+<p><img src="https://keligou.github.io/Iglek/medias/kaguya.jpg" alt="Kaguyra Dancing"></p>
+]]>
+  </description>
+</item><item>
+  <title>Chihiro having dinner</title>
+  <link>https://keligou.github.io/Iglek/12-01-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/12-01-2021.html</guid>
+  <pubDate>2021-01-12 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>Chihiro having dinner</h1>
+<p>A still image from the movie Chihiro by Studio Ghibli.</p>
+<p><img src="https://keligou.github.io/Iglek/medias/chihiro.jpg" alt="Chihiro having dinner"></p>
+]]>
+  </description>
+</item><item>
+  <title>A strange looking city</title>
+  <link>https://keligou.github.io/Iglek/08-01-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/08-01-2021.html</guid>
+  <pubDate>2021-01-08 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>A strange looking city</h1>
+<p>This city is by François Schuiten.</p>
+<p><img src="https://keligou.github.io/Iglek/medias/city.jpeg" alt="Strange floating city by François Schuiten"></p>
+]]>
+  </description>
+</item><item>
+  <title>A pensive blue man</title>
+  <link>https://keligou.github.io/Iglek/05-01-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/05-01-2021.html</guid>
+  <pubDate>2021-01-05 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>A pensive blue man</h1>
+<p>This is from Watchen by Dave Gibbons.</p>
+<p><img src="https://keligou.github.io/Iglek/medias/blue-man.png" alt="Blue man thinking by Dave Gibbons"></p>
+]]>
+  </description>
+</item><item>
+  <title>A lady laying down</title>
+  <link>https://keligou.github.io/Iglek/02-01-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/02-01-2021.html</guid>
+  <pubDate>2021-01-02 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>A lady laying down</h1>
+<p>This art is by <a href="https://twitter.com/zeen_chin">Zeen Chin</a>.</p>
+<p><img src="https://keligou.github.io/Iglek/medias/lady.jpeg" alt="Art by Zeen Chin"></p>
+]]>
+  </description>
+</item><item>
+  <title>Happy new year!</title>
+  <link>https://keligou.github.io/Iglek/01-01-2021.html</link>
+  <guid isPermaLink="false">https://keligou.github.io/Iglek/01-01-2021.html</guid>
+  <pubDate>2021-01-01 00:00:00</pubDate>
+<description>
+<![CDATA[<h1>Happy new year!</h1>
+<p>Happy new year to all of you!</p>
+]]>
+  </description>
+</item>
+</channel>
+</rss>
